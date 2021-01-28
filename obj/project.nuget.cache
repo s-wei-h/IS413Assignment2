@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4sUh8Xu2Eu8ICu9ZCpVR1ee+4oJ960Vi9DxFlljYiAjE6X4SPGP7PPvs76ykabo3Tr1Td7oQbyC8whUcj5Ifw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\swei\\source\\repos\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swei\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

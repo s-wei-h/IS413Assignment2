@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/gif" href="img/partyparrot.gif" />
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+    <title>@ViewBag.Title</title>
+</head>
+
+<body>
+    <div class="nav-bar">
+        <div class="nav-button">
+            <a href="/">Home</a>
+        </div>
+
+        <div class="nav-button">
+            <a href="/Home/Calculator">Calculator</a>
+        </div>
+    </div>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer>This assignment is for IS 413</footer>
+
+    <script src="~/node_modules/query/dist/jquery.min.js"></script>
+    <script src="~/js/Javascript.js"></script>
+</body>
+</html>
